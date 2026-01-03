@@ -13,6 +13,15 @@ https://drive.google.com/file/d/1As_uZ3fqEoaenJ-6ChU4BI4tTUPHCxr3/view?usp=shari
 
 https://springernature.figshare.com/articles/dataset/BabyEar4k_dataset/24711528?file=43417890
 
+**Project report link**
+
+https://drive.google.com/file/d/1Kam-M5aBer2yA4fsTVrRr9y2SkaEteMY/view?usp=sharing
+
+**Video explaining the project link**
+
+https://drive.google.com/file/d/1n1RL2WB9613d3uzSC_F05P6bHrUNvE1e/view?usp=sharing
+
+
 
 ## Features
 - Detects Normal, Lop Ear, and Stahl's Ear
